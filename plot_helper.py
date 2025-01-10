@@ -8,6 +8,7 @@ def plot(scores):
     x = list(range(1, len(scores) + 1))  # Spiele
     cumulative_mean = [sum(scores[:i + 1]) / (i + 1) for i in range(len(scores))]  # Durchschnitts-Scores
 
+    plt.figure(1)
     plt.clf()
     plt.plot(x, scores, marker="o", label="Scores")
     plt.plot(x, cumulative_mean, linestyle="--", color="orange", label="Durchschnittlicher Score")
