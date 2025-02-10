@@ -20,8 +20,8 @@ Ein studentisches KI-Projekt basierend auf dem "Snake Game AI"-Projekt von [patr
 
 1. Repository klonen oder herunterladen:
    ```bash
-   git clone https://github.com/dein-repo-link.git
-   cd AI-Catch-Game
+   git clone https://github.com/huber2511/AI-Catch-Game-mapped-Path-Fider/
+   cd AI-Catch-Game-mapped-Path-Fider
    ```
 2. Virtuelle Umgebung erstellen und aktivieren (empfohlen):
    ```bash
