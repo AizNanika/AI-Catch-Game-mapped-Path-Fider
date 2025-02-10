@@ -8,7 +8,7 @@ Ein studentisches KI-Projekt basierend auf dem "Snake Game AI"-Projekt von [patr
 ## Voraussetzungen
 
 - Eine IDE oder ein Framework, das die Ausführung von Python-Dateien (.py) unterstützt
-- Installierte Abhängigkeiten (wir empfehlen die Nutzung einer [virtuellen Umgebung](https://learn.arcade.academy/de/latest/chapters/xx_venv_setup/)):
+- Installierte Abhängigkeiten (wir empfehlen die Nutzung einer [virtuellen Umgebung](https://learn.arcade.academy/de/latest/chapters/xx_venv_setup/):
   - pygame
   - torch
   - heapq
