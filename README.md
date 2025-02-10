@@ -1,14 +1,37 @@
 # AI Catch Game
 
-A Student AI Project based on the "Sanke Game AI" project from [patrickloeber](https://github.com/patrickloeber/snake-ai-pytorch). Goal of this game is to teach an AI Agent how to navigate a playfield with or without objects to maximize the score and minimize running into collision.
+Ein studentisches KI-Projekt basierend auf dem "Snake Game AI"-Projekt von [patrickloeber](https://github.com/patrickloeber/snake-ai-pytorch). Ziel des Spiels ist es, einem KI-Agenten beizubringen, sich auf einem Spielfeld mit oder ohne Hindernisse optimal zu bewegen, um die Punktzahl zu maximieren und Kollisionen zu vermeiden.
 
---HIER EIN BILD DAVON WIE DAS GAME AUSSIEHT
+![Gameplay Screenshot](/path/to/image.png)  
+*(Ersetze dies mit einem tatsächlichen Bild deines Spiels)*
 
-# Requirements
-- An IDE (or other framework) which supports execution of python files (.py)
-- installed dependencies (we recommend using a [virtual environment](https://learn.arcade.academy/de/latest/chapters/xx_venv_setup/): (pygame, torch, heapq, matplotlib, seaborn, numpy)
+## Voraussetzungen
+- Eine IDE oder ein Framework, das die Ausführung von Python-Dateien (.py) unterstützt
+- Installierte Abhängigkeiten (wir empfehlen die Nutzung einer [virtuellen Umgebung](https://learn.arcade.academy/de/latest/chapters/xx_venv_setup/)):
+  - pygame
+  - torch
+  - heapq
+  - matplotlib
+  - seaborn
+  - numpy
 
-# How to get it to work
-- install the entire repo and load in into an IDE
-- install all mentioned requirements
-- run agent.py
+## Installation & Nutzung
+1. Repository klonen oder herunterladen:
+   ```bash
+   git clone https://github.com/dein-repo-link.git
+   cd AI-Catch-Game
+   ```
+2. Virtuelle Umgebung erstellen und aktivieren (empfohlen):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # macOS/Linux
+   venv\Scripts\activate  # Windows
+   ```
+3. Abhängigkeiten installieren:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Das Spiel starten:
+   ```bash
+   python agent.py
+   ```
