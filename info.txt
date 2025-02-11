@@ -1,0 +1,11 @@
+Key Presses:
+
+D = Debug Mode (
+                Position of Player,
+                Agent,
+          TODO: Avergare Steps
+)
+
+H = Activate Heatmap
+TODO: A = Switch mode from Agent to A*
+TODO: E = Change food modes. Static, A*, Agent
