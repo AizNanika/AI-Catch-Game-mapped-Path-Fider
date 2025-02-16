@@ -1,5 +1,6 @@
 """
 Implementiert den KI-Agenten mit Q-Learning.
+Code überarbeitet, sortiert und verbessert mit Hilfe von ChatGPT und Claude.AI
 """
 import directions
 import torch
