@@ -2,8 +2,7 @@
 
 Ein studentisches KI-Projekt basierend auf dem "Snake Game AI"-Projekt von [patrickloeber](https://github.com/patrickloeber/snake-ai-pytorch). Ziel des Spiels ist es, einem KI-Agenten beizubringen, sich auf einem Spielfeld mit oder ohne Hindernisse optimal zu bewegen, um die Punktzahl zu maximieren und Kollisionen zu vermeiden.
 
-\
-*(Ersetze dies mit einem tatsächlichen Bild deines Spiels)*
+
 
 ## Voraussetzungen
 
